@@ -3,4 +3,9 @@
 A collection of Data Science projects. 
 
 ### Why 'Glacier Science'? 
-Icebergs break off glaciers, and all of us know, what an icerberg means in a figurative sense. 90% of it is under the water, it's a mystery. Therefore, glaciers are an even bigger mystery. Hence the naming. 
+Glaciers have the power to modify the earth's surface. They are an immovable force. What do they hide underneath? How much information is just frozen, waiting to be uncovered? Hence is the naming. It's an everlasting mystery.
+
+
+
+
+
