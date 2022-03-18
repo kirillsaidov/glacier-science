@@ -1,4 +1,4 @@
-<img src="imgs/glaciers.png” width="64" height="64" align="left"></img>
+<img src="imgs/glaciers.png" width="64" height="64" align="left"></img>
 # Glacier Science
 
 A collection of Data Science projects. 
